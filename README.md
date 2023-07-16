@@ -2,7 +2,6 @@
 - 👀 I’m interested in gamedev(Unity) , webdev , 2D & 3D Art.
 - 🌱 I’m currently learning game development.
 - 💞️ I’m looking to collaborate on any game and web related projects.
-- 📫 How to reach me tejadon30301@gmail.com.
 
 <!---
 TejaDon360/TejaDon360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
