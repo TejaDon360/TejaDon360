@@ -1,5 +1,5 @@
 - 👋 Hi, I’m TejaDon.
-- 👀 I’m interested in gamedev(Unity) , webdev , 2D & 3D Art.
+- 👀 I’m interested in gamedev(Unity) , Webdev , 2D & 3D Art.
 - 🌱 I’m currently learning game development.
 - 💞️ I’m looking to collaborate on any game and web related projects.
 
