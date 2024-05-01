@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tejadon360&show_icons=true&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true&rank_icon=percentile&card_width=400" />
+<img src="https://github-readme-stats.vercel.app/api?username=tejadon360&show_icons=true&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=false&rank_icon=percentile&card_width=400" />
 </p>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=tejadon&theme=react-dark&bg_color=ffffff00&hide_border=true&point=00bfff&color=138fd1)
