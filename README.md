@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=10000&color=1199FF&repeat=false&random=false&width=500&lines=Hi+there!+I'm+Tejas+Shrimali)](https://git.io/typing-svg)
 
-+ <b>A CSE student</b>
-+ <b>I’m interested in gamedev(Unity) , Webdev , 2D & 3D Art.</b>
-+ <b>I’m currently learning game development.</b>
++ A CSE student
++ I’m interested in gamedev(Unity) , Webdev , 2D & 3D Art
++ I’m currently learning game development.
++ I'm TejaDon :)
 
-
+[![Discord](https://img.shields.io/badge/-@tejadon-deepskyblue?logo=discord&logoColor=white&color=3d45a9&labelColor=5965F6&style=flat-square)](https://discordapp.com/users/858621567159894026)
 <!---
 TejaDon360/TejaDon360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -32,5 +33,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tejadon360&show_icons=true&theme=github_dark&bg_color=ffffff00&text_color=a4bbd0&border_radius=0&hide_border=true&include_all_commits=true&rank_icon=percentile&card_width=400" />
 </p>
-</p>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=tejadon&theme=react-dark&bg_color=ffffff00&hide_border=true&point=00bfff&color=138fd1)
 
