@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=10000&color=1199FF&repeat=false&random=false&width=500&lines=Hi+there!+I'm+Tejas+Shrimali)](https://git.io/typing-svg)
 
 + A CSE student
-+ I’m interested in gamedev(Unity) , Webdev , 2D & 3D Art
-+ I’m currently learning game development.
++ I’m interested in gamedev(Unity) , Webdev , Blender
++ I’m currently learning Web Development 
 + I'm TejaDon :)
 
 [![Discord](https://img.shields.io/badge/-@tejadon-deepskyblue?logo=discord&logoColor=white&color=3d45a9&labelColor=5965F6&style=flat-square)](https://discordapp.com/users/858621567159894026)
